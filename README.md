@@ -1,38 +1,73 @@
-# 🐾 Strona Groomer – Portfolio Project
+# 🐾 Groomer Booking Platform
 
-Nowoczesna aplikacja webowa stworzona w React + Vite + TypeScript.
+Nowoczesna aplikacja webowa stworzona jako projekt portfolio, oparta o **React + Vite + TypeScript**.
+
+Projekt symuluje system rezerwacji usług groomerskich z naciskiem na wydajność, UX oraz modularną architekturę frontendową.
 
 ---
 
 ## 🚀 Live Demo
-(wstawisz link z Vercel po deployu)
+( dodaj link po deployu na Vercel )
+https://your-project.vercel.app
 
 ---
 
-## 🧠 Opis
+## 🧠 Cel projektu
 
-Projekt strony dla usług groomerskich.  
-Skupiony na UI/UX i responsywności.
+Celem projektu było stworzenie nowoczesnej aplikacji webowej opartej o komponentową architekturę React, z naciskiem na:
+- skalowalność kodu
+- czysty UI
+- dobre praktyki frontendowe
+- strukturę gotową pod rozwój SaaS
 
 ---
 
-## ⚙️ Technologie
+## ⚙️ Stack technologiczny
 
-- React
+- React (component-based architecture)
 - TypeScript
-- Vite
-- Radix UI
+- Vite (fast build tool)
+- Radix UI (accessible components)
+- ESLint / Prettier (code quality)
 
 ---
 
-## ✨ Funkcje
+## ✨ Kluczowe funkcje
 
-- Responsywny design
-- Szybkie działanie (Vite)
-- Modularny kod
+- Responsywny interfejs (mobile / desktop)
+- Modularna struktura komponentów
+- Szybkie działanie dzięki Vite
+- UI oparte o nowoczesne standardy designu
+- Przygotowanie pod integrację API / backend
+
+---
+
+## 📁 Struktura projektu
+src/
+├── components/
+├── pages/
+├── hooks/
+├── styles/
+
+---
+
+## 💡 Co pokazuje ten projekt
+
+- Umiejętność pracy z React i TypeScript
+- Zrozumienie architektury frontendowej
+- Praca z nowoczesnym stackiem frontendowym
+- Podejście projektowe (jak w realnych aplikacjach SaaS)
 
 ---
 
 ## 👨‍💻 Autor
 
 Wiktor (GitHub: wiktor-cl)
+
+---
+
+## 📌 Status
+
+✔ Projekt ukończony  
+✔ Gotowy do deployu  
+✔ Rozwijany jako portfolio frontendowe
