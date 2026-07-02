@@ -7,9 +7,7 @@ Projekt symuluje system rezerwacji usług groomerskich z naciskiem na wydajnoś�
 ---
 
 ## 🚀 Live Demo
-( dodaj link po deployu na Vercel )
-https://your-project.vercel.app
-
+[View Project](https://strona-groomer.vercel.app)
 ---
 
 ## 🧠 Cel projektu
@@ -71,3 +69,5 @@ Wiktor (GitHub: wiktor-cl)
 ✔ Projekt ukończony  
 ✔ Gotowy do deployu  
 ✔ Rozwijany jako portfolio frontendowe
+
+[def]: https://strona-groomer.vercel.app/
